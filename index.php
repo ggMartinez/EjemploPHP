@@ -1,2 +1,4 @@
 <?php 
-    echo "bueno dia";
+
+    $nombre = "Jose";
+    echo "bueno dia" . $nombre;
