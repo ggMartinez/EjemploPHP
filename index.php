@@ -1,6 +1,6 @@
 <?php 
 
     $nombre = "Jose";
-    echo "bueno dia" . $nombre;
+    echo "buenos dias" . $nombre;
 
     phpinfo();
